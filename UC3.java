@@ -1,4 +1,4 @@
-
+import java.util.Random;
 public class UC3 {
 	static int EverydayStack = 100;
 	static int BetStack = 1;
